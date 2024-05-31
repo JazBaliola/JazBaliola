@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there I'm Jaz👋
 
-<!--
-**JazBaliola/JazBaliola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ My Featured Projects ✨
+- All In One Link App (AIOLink App) <a href="https://aiolink.app" target="_blank">aiolink.app</a>
 
-Here are some ideas to get you started:
+### 👾 About Me 👾
+- 🔭 I’m currently working on cfsalberta.ca website
+- 🌱 I’m currently learning MERN Stack and React Native
+- ⚡ <b>Current Skills:</b> Php, SQL, Java, JavaScript, React.js, Express.js, Node.js, HTML, CSS, Bootstrap, MongoDB, Git
+- 🌐 <b>How to reach me:</b> <a href="https://jazcodeit.ca" target="_blank">jazcodeit.ca</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
