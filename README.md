@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on cfsalberta.ca website
 - 🌱 I’m currently learning MERN Stack and React Native
 - ⚡ <b>Current Skills:</b> Php, SQL, Java, JavaScript, React.js, Express.js, Node.js, HTML, CSS, Bootstrap, MongoDB, Git
-- 🌐 <b>How to reach me:</b> <a href="https://jazcodeit.ca" target="_blank">jazcodeit.ca</a>
+- 🌐 <b>More about me:</b> <a href="https://jazcodeit.ca" target="_blank">jazcodeit.ca</a>
 
 
 
