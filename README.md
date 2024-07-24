@@ -1,6 +1,7 @@
 # Hi there I'm Jaz👋
 
 ### ✨ My Featured Projects ✨
+- iMusic (Music App) <a href="https://jazcodeit.ca" target="_blank">imusic.ca</a>
 - All In One Link App (AIOLink App) <a href="https://aiolink.app" target="_blank">aiolink.app</a>
 
 ### 👾 About Me 👾
